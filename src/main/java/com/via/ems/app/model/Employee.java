@@ -4,7 +4,7 @@
  * (C) hunchmen. 2022. All Rights Reserved.
  * 
  */
-package com.via.ems.model;
+package com.via.ems.app.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

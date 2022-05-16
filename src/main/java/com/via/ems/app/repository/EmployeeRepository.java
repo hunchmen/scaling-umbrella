@@ -4,11 +4,11 @@
  * (C) hunchmen. 2022. All Rights Reserved.
  * 
  */
-package com.via.ems.repository;
+package com.via.ems.app.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import com.via.ems.model.Employee;
+import com.via.ems.app.model.Employee;
 
 /**
  * 

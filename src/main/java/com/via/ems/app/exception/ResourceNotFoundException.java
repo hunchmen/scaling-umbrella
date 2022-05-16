@@ -4,7 +4,7 @@
  * (C) hunchmen. 2022. All Rights Reserved.
  * 
  */
-package com.via.ems.exception;
+package com.via.ems.app.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
