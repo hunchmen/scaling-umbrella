@@ -1,7 +1,7 @@
 # scaling-umbrella
 Springboot + ReactJS
 
-URL: [SpringBoot React Full Course](https://www.youtube.com/watch?v=XkVpb_8IPUM)
+URL: [SpringBoot React Full Course](https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr.)
 
 Employee Management System
 
