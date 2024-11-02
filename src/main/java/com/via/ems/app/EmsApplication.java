@@ -6,11 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * 
- * 
  * @author hunchmen
- * 
- * 
- *         May 16, 2022
+ * @since May 16, 2022
  */
 @SpringBootApplication
 @EnableAutoConfiguration
